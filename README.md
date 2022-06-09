@@ -1,1 +1,3 @@
-# datastructures-algorithms
+# Data Structures and Algorithms
+
+- Leetcode challenges as well
